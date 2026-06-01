@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <rect width="256" height="256" rx="32" fill="#0f1724" />
+  <g transform="translate(36,36)" fill="#fff">
+    <path d="M44 24 L76 24 L88 56 L76 88 L44 88 L32 56 Z" fill="#94a3b8" />
+    <text x="140" y="160" font-family="Segoe UI" font-size="24" fill="#fff">Settings</text>
+  </g>
+</svg>

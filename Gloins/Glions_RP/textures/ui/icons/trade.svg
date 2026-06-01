@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <rect width="256" height="256" rx="32" fill="#0f1724" />
+  <g transform="translate(32,36)" fill="#fff">
+    <path d="M0 60 L60 60 L60 0" stroke="#f97316" stroke-width="10" fill="none" stroke-linecap="round" />
+    <path d="M196 0 L136 0 L136 60" stroke="#f97316" stroke-width="10" fill="none" stroke-linecap="round" transform="translate(0,40) scale(-1,1) translate(-196,0)" />
+    <text x="96" y="160" font-family="Segoe UI" font-size="28" fill="#fff">Trade</text>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+{
+  "sell_prices": {
+    "minecraft:diamond": 100,
+    "minecraft:iron_ingot": 10,
+    "minecraft:gold_ingot": 25,
+    "minecraft:emerald": 80,
+    "minecraft:stone": 0.1
+  },
+  "buy_prices": {
+    "minecraft:stone": 1,
+    "minecraft:iron_ingot": 15,
+    "minecraft:gold_ingot": 30,
+    "minecraft:diamond": 150,
+    "minecraft:golden_apple": 500
+  },
+  "shop_categories": {
+    "Building": ["minecraft:stone","minecraft:oak_planks","minecraft:brick"],
+    "Materials": ["minecraft:iron_ingot","minecraft:gold_ingot","minecraft:diamond"],
+    "Food": ["minecraft:cooked_beef","minecraft:golden_apple"]
+  }
+}

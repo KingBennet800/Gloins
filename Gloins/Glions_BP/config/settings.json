@@ -1,0 +1,8 @@
+{
+  "currency_name": "Glions",
+  "currency_symbol": "G",
+  "decimal_places": 0,
+  "starting_balance": 100,
+  "max_trade_time_seconds": 300,
+  "allow_negative_balances": false
+}

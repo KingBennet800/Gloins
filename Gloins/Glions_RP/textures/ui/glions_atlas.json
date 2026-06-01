@@ -1,0 +1,11 @@
+{
+  "atlas": "textures/ui/glions_atlas.png",
+  "icons": {
+    "coin": { "x": 16, "y": 16, "width": 96, "height": 96 },
+    "sell": { "x": 128, "y": 16, "width": 96, "height": 96 },
+    "buy": { "x": 240, "y": 16, "width": 96, "height": 96 },
+    "trade": { "x": 352, "y": 16, "width": 96, "height": 96 },
+    "history": { "x": 16, "y": 128, "width": 96, "height": 96 },
+    "settings": { "x": 128, "y": 128, "width": 96, "height": 96 }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "glions": {
+    "panel": "textures/ui/panel.png",
+    "atlas": "textures/ui/glions_atlas.png",
+    "iconMap": "textures/ui/glions_atlas.json",
+    "icons": {
+      "coin": "textures/ui/icons/coin.png",
+      "sell": "textures/ui/icons/sell.png",
+      "buy": "textures/ui/icons/buy.png",
+      "trade": "textures/ui/icons/trade.png",
+      "history": "textures/ui/icons/history.png",
+      "settings": "textures/ui/icons/settings.png"
+    }
+  }
+}

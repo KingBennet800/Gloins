@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <rect width="256" height="256" rx="32" fill="#0f1724" />
+  <g transform="translate(36,36)" fill="#fff">
+    <circle cx="64" cy="56" r="48" stroke="#f59e0b" stroke-width="8" fill="none" />
+    <path d="M64 40 L64 68 L84 84" stroke="#f59e0b" stroke-width="8" stroke-linecap="round" fill="none" />
+    <text x="140" y="160" font-family="Segoe UI" font-size="24" fill="#fff">History</text>
+  </g>
+</svg>

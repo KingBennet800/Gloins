@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <rect width="256" height="256" rx="32" fill="#0f1724" />
+  <g transform="translate(40,40)" fill="#fff">
+    <path d="M40 0 L80 40 L40 80 L0 40 Z" fill="#10b981" />
+    <text x="140" y="48" font-family="Segoe UI" font-size="28" fill="#fff">Sell</text>
+  </g>
+</svg>

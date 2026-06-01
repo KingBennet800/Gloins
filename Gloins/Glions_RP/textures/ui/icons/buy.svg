@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <rect width="256" height="256" rx="32" fill="#0f1724" />
+  <g transform="translate(40,40)" fill="#fff">
+    <circle cx="40" cy="40" r="28" fill="#3b82f6" />
+    <text x="120" y="48" font-family="Segoe UI" font-size="28" fill="#fff">Buy</text>
+  </g>
+</svg>
